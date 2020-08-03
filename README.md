@@ -14,4 +14,4 @@ Lê e-mails e coleta os anexos.
     - imap_port - Porta imap
     - mailbox - Caixa de email
     - subject - Assunto
-    - dir_path - Diretorio onde o anexo será depositado
+    - dir_path - Diretorio onde o anexo será depositado 
