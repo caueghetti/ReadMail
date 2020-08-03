@@ -1,0 +1,12 @@
+[
+    {
+        "id_":"",
+        "user":"",
+        "password":"",
+        "imap_url":"imap.gmail.com",
+        "imap_port":993,
+        "mailbox":"Inbox",
+        "subject":"",
+        "dir_path":""
+    }
+]
